@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/renatobonfim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renatobonfim&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width" data-canonical-src="https://github-readme-stats.vercel.app/api?username=renatobonfim
+  <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=renatobonfim&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width" data-canonical-src="https://github-readme-stats.vercel.app/api?username=renatobonfim
   &amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="160em" width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobonfim&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobonfim: 100%;">
+  <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobonfim&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobonfim: 100%;">
 </a></div><a href="https://github.com/renatobonfim">
 <div><br>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">  
