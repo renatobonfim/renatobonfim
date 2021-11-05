@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/renatobonfim">
-  <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=renatobonfim&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width" data-canonical-src="https://github-readme-stats.vercel.app/api?username=renatobonfim
+  <img height="145em"  src="https://github-readme-stats.vercel.app/api?username=renatobonfim&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width" data-canonical-src="https://github-readme-stats.vercel.app/api?username=renatobonfim
   &amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
   <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobonfim&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobonfim: 100%;">
 </a></div><a href="https://github.com/renatobonfim">
